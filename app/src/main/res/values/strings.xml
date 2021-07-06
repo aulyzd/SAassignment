@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shelf Life</string>
+    <string-array name="expiryMonths">
+        <item>All</item>
+        <item>1 Month</item>
+        <item>3 Month</item>
+        <item>6 Month</item>
+    </string-array>
+    <string name="title">Shelf Life App</string>
+    <string name="list">View Product</string>
+    <string name="website">www.shelflife.com.sg</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="hint">type</string>
+    <string name="typenew">"Enter the name of the product"</string>
+    <string name="click">"Click on the item that you want to update"</string>
+    <string name="tvexpirytext">Product Expiry Date</string>
+    <string name="tvNewexpirytext">Set new product Expiry Date</string>
+    <string name="newproductdesc">Enter new name for the product</string>
+
+</resources>
